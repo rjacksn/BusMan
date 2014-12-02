@@ -172,7 +172,7 @@ function makeRouteTable(marker_index) {
     });
 }
 
-var IS_QUIK = false;
+var IS_QUIK = true;
 
 $(document).ready(function ()
 {

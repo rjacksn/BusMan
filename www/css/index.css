@@ -105,3 +105,49 @@ div.big_button_bar:hover{ background-color:#CCCCFF }
     margin-top: -50px;
 }
 
+
+.route_block{
+    height:28px;
+}
+.route_icon{
+    height:28px;
+    float:left;
+    margin-right:2%;
+    background-color: #b9c3da;
+}
+
+.bus_title{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.6em;
+    background: #314350;
+    color: #eaf05d;
+    padding: 9px;
+}
+
+
+.bus_route{
+    width:96%;
+    background:#efffff;
+    margin-left:2%;
+    clear: both;
+    border: 1px solid #b9c3da;
+    border-top:none;
+}
+
+
+
+.no_bus{
+    font-family: helvetica, sans-serif;
+    font-size: 0.7em;
+    margin-left:2%;
+}
+
+.bus_arrival h4{
+    font-family: helvetica, sans-serif;
+    font-size: 0.7em;
+    margin-left:2%;
+    float:left;
+}
+
+.bus_arrival button{
+}
